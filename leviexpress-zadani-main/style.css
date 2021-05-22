@@ -78,7 +78,7 @@ label {
   cursor: initial;
 }
 
-/* header {
+header {
   padding-top: 1px;
   height: 305px;
 
@@ -88,7 +88,7 @@ label {
   background-size: contain;
   background-position: center bottom;
   background-repeat: no-repeat;
-} */
+}
 
 .site-title {
   margin: 0.5rem 0;
@@ -236,7 +236,7 @@ label {
   font-size: 36px;
 }
 
-/* footer {
+footer {
   margin-top: 4rem;
   padding: 2rem 0 4rem 0;
   color: white;
@@ -246,4 +246,4 @@ label {
 .footer-title {
   font-weight: bold;
   font-size: 150%;
-} */
+}
